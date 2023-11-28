@@ -1,0 +1,24 @@
+Tour :
+- Acheter des ingredients
+- Creer les recettes dont il as besoin
+- Vendre
+tour suivant :
+...
+
+variable tour
+variable money
+
+while money > 0 :
+tour += 1
+Play
+
+class : gateau : ingredients : 
+prix;
+
+class Products
+
+SHOP
+
+Class Ingredients
+
+Flour(quantity, singleprice)
